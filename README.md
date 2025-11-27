@@ -1,102 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&height=50&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️++Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+++Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!&v=anti_cache_nuclear" alt="Guia Tricolor" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%E2%80%8B;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%E2%80%8B%E2%80%8B&v=invisible_char_trick" alt="Guia Tricolor" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1105&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%C2%A0;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%C2%A0%C2%A0&v=cores_forced_real" alt="Guia Tricolor" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=force_refresh_NOW" alt="Guia Tricolor" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=300&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=cores_oficiais_lento" alt="Guia Lento Tricolor" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=300&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=piscar_lento_3s" alt="Guia Lento" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=pisca_3_cores" alt="Guia Piscando 3 Cores" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo.;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo&v=final_hack_pontuacao" alt="Guia Tricolor" />
   </a>
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=5000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=placa_lenta_5s" alt="Guia Placa" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=1500&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=blinking_fix_v2" alt="Guia Piscando" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1&pause=2000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=instant_flash" alt="Guia Piscando" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1000&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=duration_1k" alt="Guia Animado" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=100&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=duration_100_fix" alt="Guia Piscando" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=10&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=fixed_crash" alt="Guia Piscando" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=0&pause=800&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=blinking_fast" alt="Guia Piscando" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=0&pause=800&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=blinking_fast" alt="Guia Piscando" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=no_typing_effect" alt="Guia Colorido" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=5000&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=final_print_msg" alt="Guia Colorido" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=850&lines=🗺️+Guia:+As+tabelas+mostram+apenas+os+destaques.;Para+ver+todo+o+laboratório+de+códigos...;...clique+no+botão+colorido+ao+final+de+cada+seção!&v=original_text_fixed" alt="Guia Colorido" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&duration=4000&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1000&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!" alt="Guia Colorido" />
-  </a>
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -114,6 +21,7 @@
   </a>
 </div>
 
+
 ---
 
 ### 🚀 Ecossistema de Projetos
@@ -122,7 +30,7 @@ Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=1000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=800&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!" alt="Guia Colorido" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=300&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=piscar_lento_3s" alt="Guia Lento" />
   </a>
 </div>
 
