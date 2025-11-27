@@ -1,9 +1,20 @@
+---
+
+<h2 align="center">🚀 Ecossistema de Projetos</h2>
+
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=850&lines=Yuri+Sidney+Forjaz;Ciência+de+Dados+%26+Machine+Learning;APIs+de+Alta+Performance+com+.NET;Engenharia+de+Software+Enterprise+com+Java" alt="Typing Animation">
-  </a>
+  <h4>
+    Meus projetos estão organizados em <b>3 Hubs Especializados</b>:
+    <br>
+    🐍 <b>Python</b> (Dados & IA) • ⚙️ <b>C# .NET</b> (Backend & Arquitetura) • ☕ <b>Java</b> (Sistemas Enterprise)
+    <br><br>
+    🔻 <b>Guia de Navegação:</b>
+    <br>
+    As tabelas abaixo mostram apenas os <i>destaques</i>. Para acessar o laboratório completo e ver <b>todos os repositórios</b>, clique no <b>botão colorido</b> (link) que está ao final de cada seção.
+  </h4>
 </div>
 
+---
 <div align="center" style="margin-top: 20px;">
   <a href="mailto:ysidfor@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
