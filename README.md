@@ -1,4 +1,4 @@
-</div>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=850&lines=Yuri+Sidney+Forjaz;Ciência+de+Dados+%26+Machine+Learning;APIs+de+Alta+Performance+com+.NET;Engenharia+de+Software+Enterprise+com+Java" alt="Typing Animation">
@@ -24,10 +24,9 @@ Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=300&pause=3000&color=00FFFF&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!#️⃣🐍☕;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!🐍#️⃣☕+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+TUDO!#️⃣☕🐍++&v=neon_blue_fix" alt="Guia Neon" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=300&pause=3000&color=00FFFF&center=true&vCenter=true&width=1200&lines=📌+Nota:+Abaixo,+uma+seleção+dos+principais+trabalhos.+Acesse+a+lista+completa+pelo+botão+colorido.;📌+Nota:+Abaixo,+uma+seleção+dos+principais+trabalhos.+Acesse+a+lista+completa+pelo+botão+colorido.+;📌+Nota:+Abaixo,+uma+seleção+dos+principais+trabalhos.+Acesse+a+lista+completa+pelo+botão+colorido.++&v=mensagem_final_neon" alt="Nota Neon" />
   </a>
 </div>
-
 <br>
 
 ### 🐍 Python Development Hub (Fundamentos & Dados)
