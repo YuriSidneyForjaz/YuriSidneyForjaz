@@ -1,19 +1,8 @@
-
-
-<h2 align="center">🚀 Ecossistema de Projetos</h2>
-
 <div align="center">
-  <h4>
-    Meus projetos estão organizados em <b>3 Hubs Especializados</b>:
-    <br>
-    🐍 <b>Python</b> (Dados & IA) • ⚙️ <b>C# .NET</b> (Backend & Arquitetura) • ☕ <b>Java</b> (Sistemas Enterprise)
-    <br><br>
-    🔻 <b>Guia de Navegação:</b>
-    <br>
-    As tabelas abaixo mostram apenas os <i>destaques</i>. Para acessar o laboratório completo e ver <b>todos os repositórios</b>, clique no <b>botão colorido</b> (link) que está ao final de cada seção.
-  </h4>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=33FF33&center=true&vCenter=true&width=850&lines=Yuri+Sidney+Forjaz;Ciência+de+Dados+%26+Machine+Learning;APIs+de+Alta+Performance+com+.NET;Engenharia+de+Software+Enterprise+com+Java" alt="Typing Animation">
+  </a>
 </div>
-
 
 <div align="center" style="margin-top: 20px;">
   <a href="mailto:ysidfor@gmail.com">
@@ -25,11 +14,20 @@
   </a>
 </div>
 
+---
+
+# 🚀 Ecossistema de Projetos
+
+<h2>
+Utilizo o recurso de Organizações do GitHub para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub:
+</h2>
+
+<h3>
+  Guia Rápido: As tabelas mostram os destaques. Para ver todos os repositórios, clique no botão colorido ao final de cada seção.
+</h3>
 
 
-### 🚀 Ecossistema de Projetos
-
-Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub:
+<br>
 
 ### 🐍 Python Development Hub (Fundamentos & Dados)
 
