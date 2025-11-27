@@ -1,5 +1,10 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=5000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=placa_lenta_5s" alt="Guia Placa" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=50&pause=1500&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=blinking_fix_v2" alt="Guia Piscando" />
   </a>
 </div>
