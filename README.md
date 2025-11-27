@@ -1,5 +1,20 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&height=50&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️++Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+++Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!&v=anti_cache_nuclear" alt="Guia Tricolor" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%E2%80%8B;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%E2%80%8B%E2%80%8B&v=invisible_char_trick" alt="Guia Tricolor" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1105&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%C2%A0;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!%C2%A0%C2%A0&v=cores_forced_real" alt="Guia Tricolor" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=100&pause=3000&color=3776AB;512BD4;ED8B00&center=true&vCenter=true&width=1100&lines=🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!+;🗺️+Guia:+As+tabelas+mostram+destaques.+Clique+no+botão+colorido+para+ver+tudo!++&v=force_refresh_NOW" alt="Guia Tricolor" />
   </a>
 </div>
