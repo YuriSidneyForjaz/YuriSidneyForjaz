@@ -18,13 +18,63 @@
 
 ### 🚀 Ecossistema de Projetos
 
-Para manter a organização e o foco técnico, utilizo o recurso de **Organizações do GitHub**. Cada organização atua como um "Hub" especializado:
+Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub:
 
-| Hub Tecnológico | Foco & Descrição |
+<details>
+<summary><strong>🐍 Python Development Hub (Fundamentos & Dados)</strong></summary>
+<br>
+
+| Destaques | Foco |
 | :--- | :--- |
-| 🐍 **Python** | **Ciência de Dados e IA.** Foco em pipelines de ETL (`Airflow`), manipulação de dados (`Pandas`), visualização e Machine Learning (`Scikit-learn`, `TensorFlow`). |
-| 🇨#️⃣ **.NET** | **Backend de Alta Performance.** Desenvolvimento de APIs RESTful robustas, arquitetura de microsserviços, mensageria (`RabbitMQ`) e segurança corporativa. |
-| ☕ **Java** | **Engenharia de Software Enterprise.** Arquiteturas distribuídas complexas, Spring Cloud, observabilidade e sistemas resilientes para grandes corporações. |
+| `python-syntax-drills` | Exercícios práticos de sintaxe e estruturas de dados. |
+| `python-web-apps` | Desenvolvimento de aplicações web leves (Flask/Django). |
+| `python-integration-projects` | Integração de scripts Python com outros sistemas. |
+
+<div align="center">
+
+[![Acessar Python Hub](https://img.shields.io/badge/-Acessar_Python_Dev_Hub-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python-dev-hub)
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><strong>⚙️ C# .NET Backend Hub (Arquitetura & Segurança)</strong></summary>
+<br>
+
+| Destaques | Foco |
+| :--- | :--- |
+| `csharp-integration-projects` | Mensageria (RabbitMQ) e comunicação assíncrona. |
+| `csharp-microservices-architecture` | Estrutura completa de microsserviços com Docker. |
+| `csharp-security-best-practices` | Implementação de OAuth2, JWT e Identity. |
+
+<div align="center">
+
+[![Acessar .NET Hub](https://img.shields.io/badge/-Acessar_C%23_.NET_Hub-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/csharp-dev-hub)
+
+</div>
+<br>
+</details>
+
+<details>
+<summary><strong>☕ Java Enterprise Hub (DevOps & Scale)</strong></summary>
+<br>
+
+| Destaques | Foco |
+| :--- | :--- |
+| `java-microservices-architecture` | Spring Cloud, Circuit Breakers e Service Discovery. |
+| `java-testing-and-debugging` | Testes de integração complexos e Testcontainers. |
+| `java-devops-and-ci-cd` | Pipelines de CI/CD, Kubernetes e Observabilidade. |
+
+<div align="center">
+
+[![Acessar Java Hub](https://img.shields.io/badge/-Acessar_Java_Enterprise_Hub-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/Java-Dev-Hub)
+
+</div>
+<br>
+</details>
+
+---
 
 ### 👨‍💻 Sobre Mim
 
@@ -57,57 +107,3 @@ Sou um profissional com uma trajetória acadêmica interdisciplinar, unindo a l�
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
-
-### 📊 Métricas e Atividade
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-Sidney-Forjaz&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-Sidney-Forjaz&layout=compact&theme=dracula&hide=html,css" alt="Linguagens Mais Usadas" />
-</p>
-
-<div align="center">
-  <img src="https://github.com/Yuri-Sidney-Forjaz/Yuri-Sidney-Forjaz/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
-</div>
-
----
-
-### 📂 Navegue pelas Organizações
-
-<details>
-<summary><strong>🐍 Python Development Hub</strong></summary>
-<br>
-
-| Repositório | Descrição |
-| :--- | :--- |
-| `data-manipulation` | Engenharia de dados avançada com Pandas e Dask. |
-| `machine-learning` | Implementação de modelos preditivos e redes neurais. |
-| `etl-pipelines` | Orquestração de dados e workflows automáticos. |
-| `python-math-exercises` | Algoritmos matemáticos e computação científica. |
-| `web-scraping-and-apis` | Coleta de dados e integração de sistemas. |
-</details>
-
-<details>
-<summary><strong>⚙️ C# .NET Backend Hub</strong></summary>
-<br>
-
-| Repositório | Descrição |
-| :--- | :--- |
-| `csharp-web-apis` | APIs RESTful de nível industrial com ASP.NET Core. |
-| `csharp-microservices-architecture` | Sistemas distribuídos com Docker e Kubernetes. |
-| `csharp-security-best-practices` | Implementação de OAuth2, JWT e segurança de APIs. |
-| `csharp-backend-systems` | Lógica de negócios complexa e acesso a dados (EF Core/Dapper). |
-| `csharp-devops-and-ci-cd` | Automação de deploy e pipelines no Azure DevOps/GitHub Actions. |
-</details>
-
-<details>
-<summary><strong>☕ Java Enterprise Hub</strong></summary>
-<br>
-
-| Repositório | Descrição |
-| :--- | :--- |
-| `java-microservices-architecture` | Spring Cloud, Service Discovery e Circuit Breakers. |
-| `java-web-apis` | APIs Enterprise (RMM Level 3) com documentação OpenAPI. |
-| `java-security-best-practices` | Segurança avançada com Spring Security e Keycloak. |
-| `java-performance-optimization` | Tuning de JVM, análise de Threads e Garbage Collection. |
-| `scientific-computing` | Algoritmos de alta precisão e simulações físicas em Java. |
-</details>
