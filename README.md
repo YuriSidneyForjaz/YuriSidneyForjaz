@@ -16,16 +16,12 @@
 
 ---
 
-# 🚀 Ecossistema de Projetos
+### 🚀 Ecossistema de Projetos
 
-<h2>
-Utilizo o recurso de Organizações do GitHub para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub:
-</h2>
+Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub.
 
-<h3>
-  Guia Rápido: As tabelas mostram os destaques. Para ver todos os repositórios, clique no botão colorido ao final de cada seção.
-</h3>
-
+> 🗺️ **Guia de Navegação:**
+> As tabelas abaixo mostram apenas os *destaques*. Para ver todos os repositórios, clique no **botão colorido** ao final de cada seção.
 
 <br>
 
