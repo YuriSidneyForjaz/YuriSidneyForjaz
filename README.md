@@ -20,9 +20,7 @@
 
 Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por tecnologia e nível de complexidade. Abaixo, destaco os principais repositórios de cada hub:
 
-<details>
-<summary><strong>🐍 Python Development Hub (Fundamentos & Dados)</strong></summary>
-<br>
+### 🐍 Python Development Hub (Fundamentos & Dados)
 
 | Destaques | Foco |
 | :--- | :--- |
@@ -36,11 +34,8 @@ Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por
 
 </div>
 <br>
-</details>
 
-<details>
-<summary><strong>⚙️ C# .NET Backend Hub (Arquitetura & Segurança)</strong></summary>
-<br>
+### ⚙️ C# .NET Backend Hub (Arquitetura & Segurança)
 
 | Destaques | Foco |
 | :--- | :--- |
@@ -54,11 +49,8 @@ Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por
 
 </div>
 <br>
-</details>
 
-<details>
-<summary><strong>☕ Java Enterprise Hub (DevOps & Scale)</strong></summary>
-<br>
+### ☕ Java Enterprise Hub (DevOps & Scale)
 
 | Destaques | Foco |
 | :--- | :--- |
@@ -72,7 +64,6 @@ Utilizo o recurso de **Organizações do GitHub** para separar meus projetos por
 
 </div>
 <br>
-</details>
 
 ---
 
